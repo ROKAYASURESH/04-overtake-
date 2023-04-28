@@ -1,0 +1,39 @@
+.navbar-light .navbar-nav .nav-link {
+    color: blue;
+    padding: 10px;
+    text-transform: uppercase;
+ 
+ 
+}
+.navbar-light .navbar-nav .nav-link:hover {
+    background-color: blue;
+    color: white;
+}
+
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link{
+    background-color: blue;
+    color:white;
+    
+}
+.first{text-align: center;}
+.sec{text-align-last:center ;}
+
+.box1{
+  
+    background-color: #797979;
+    padding: 20px;
+   
+
+}
+.box1:hover{background: white;
+    border: 2px solid black;}
+.pg{text-align: center;}
+.xx{  color: white;}
+.tr{color: cadetblue;}
+.td{color: cadetblue; }
+li{list-style: none}
+li:hover{color: whitesmoke; list-style: none
+}
+
+.my{float: left;}
+
