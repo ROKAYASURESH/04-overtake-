@@ -23,7 +23,7 @@ To get this project up and running on your local machine, follow these steps:
 
 1. **Clone the repository:**  
    ```
-   [git clone https://github.com/your-username/obvertake.git](https://github.com/ROKAYASURESH/04-overtake-.git)
+   https://github.com/ROKAYASURESH/04-overtake-.git
    ```
 
 2. **Navigate to the project directory:**  
